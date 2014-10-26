@@ -5,19 +5,21 @@ This tools is used to anaylsis the radar image which comes from NMC, we can repo
 
 ## Dependence
 
-* numpy£ºhttp://sourceforge.net/projects/numpy/files/NumPy/1.7.0/
-* matplotlab£ºhttp://sourceforge.net/projects/matplotlib/files/matplotlib/matplotlib-1.1.1/
-* scipy£ºhttp://sourceforge.net/projects/scipy/files/scipy/0.12.0/
+* numpyï¼šhttp://sourceforge.net/projects/numpy/files/NumPy/1.7.0/
+* matplotlabï¼šhttp://sourceforge.net/projects/matplotlib/files/matplotlib/matplotlib-1.1.1/
+* scipyï¼šhttp://sourceforge.net/projects/scipy/files/scipy/0.12.0/
 * PIL
 * pyparsing http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyparsing
 * datautil http://www.lfd.uci.edu/~gohlke/pythonlibs/#python-dateutil
 * six http://www.lfd.uci.edu/~gohlke/pythonlibs/#six
 
 ## Issue
-if you meet this ¡°No module named six¡±
+if you meet this â€œNo module named sixâ€
 
-site-packages\scipy\lib Ä¿Â¼ÏÂµÄÈı¸öÎÄ¼ş
+site-packages\scipy\lib ç›®å½•ä¸‹çš„ä¸‰ä¸ªæ–‡ä»¶
 six.py
 six.pyo
 six.pyc
-Copyµ½site-packagesÄ¿Â¼ÏÂ¾Í¿ÉÒÔÁË¡£
+Copyåˆ°site-packagesç›®å½•ä¸‹å°±å¯ä»¥äº†ã€‚
+
+jjj
